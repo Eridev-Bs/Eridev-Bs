@@ -1,5 +1,5 @@
 # 💫 About Me:
-Benjamín Sequeida<br>Analista Programador | Desarrollador Web<br><br>📍 RM, Santiago, Chile<br>📧 benjaminsequeida95@gmail.com <br> PERFIL PROFECIONAL<br>Soy un analista programador con un conocimiento integral del desarrollo de software en proyectos y aplicaciones web. Me especializo en la revisión de código, optimización de algoritmos y desarrollo de sistemas de venta e inventario. Apasionado por la resolución de problemas y la mejora de la experiencia del usuario, aplicando metodologías ágiles y tecnologías modernas.
+Benjamín Sequeida<br>Analista Programador | Desarrollador Web<br><br>📧 benjaminsequeida95@gmail.com <br><br>Soy un analista programador con un conocimiento integral del desarrollo de software en proyectos y aplicaciones web. Me especializo en la revisión de código, optimización de algoritmos y desarrollo de sistemas de venta e inventario. Apasionado por la resolución de problemas y la mejora de la experiencia del usuario, aplicando metodologías ágiles y tecnologías modernas.
 
 
 ## 🌐 Socials:
