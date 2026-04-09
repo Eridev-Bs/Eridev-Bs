@@ -18,7 +18,6 @@ Desarrollador con experiencia en el ciclo completo de desarrollo de software, es
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-sequeida-477b57205/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminsequeida95@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eridev-Bs)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErideTHK)
 
 ---
 
@@ -59,25 +58,3 @@ Desarrollador con experiencia en el ciclo completo de desarrollo de software, es
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Eridev-Bs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Eridev-Bs&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eridev-Bs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Eridev-Bs&icon=5&color=0)](https://visitcount.itsvg.in)
-
-**"Código limpio, soluciones efectivas"**
-
-</div>
