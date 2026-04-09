@@ -74,15 +74,6 @@ Desarrollador con experiencia en el ciclo completo de desarrollo de software, es
 
 </div>
 
----
-
-## 🚀 Proyectos Destacados
-
-- **Mini Inventario** - Sistema de gestión de inventarios y tareas con Vue 3 + Node.js
-- **[Agrega tus proyectos más importantes aquí]**
-
----
-
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Eridev-Bs&icon=5&color=0)](https://visitcount.itsvg.in)
